@@ -1,0 +1,13 @@
+{
+  "ideaDirPath": "E:/Dev2024/ElytraMining/.idea",
+  "modulesMap": {
+    "ElytraMining": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.iml",
+    "ElytraMining:api": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.api.iml",
+    "ElytraMining:ideVirtualMain": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.ideVirtualMain.iml",
+    "ElytraMining:injectedTags": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.injectedTags.iml",
+    "ElytraMining:main": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.main.iml",
+    "ElytraMining:mcLauncher": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.mcLauncher.iml",
+    "ElytraMining:patchedMc": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.patchedMc.iml",
+    "ElytraMining:test": "E:/Dev2024/ElytraMining/.idea/modules/ElytraMining.test.iml"
+  }
+}
